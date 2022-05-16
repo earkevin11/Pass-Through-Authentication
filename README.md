@@ -30,9 +30,9 @@
 <p/>
 
 
-# One more step: Go backto AD connect > Configure > Customize Sycnhronization options > enter credentials > disable Password Hash Synchronization
+# One more step: Navigate to AD connect > Configure > Customize Sycnhronization options > enter credentials > disable Password Hash Synchronization
 - We do this because if we enabled Passthrough Authentication and have Password Hash Synchronization enabled, it will automatically use Password Hash Sychronization
-- We want Pass-Through
+- We want Pass-Through Authentication.
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/104326475/168648765-847f26d7-d573-4f8d-ae8f-3fdafb2e4966.png" height="75%" width="75%" alt="AD DS "/>
