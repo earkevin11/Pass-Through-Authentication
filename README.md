@@ -59,6 +59,7 @@
 <p/>
 
 - Due to configuring log-in denies for all days. There will be an error message.
+- This happens because authentication is occuring at the local on-prem Active Directory first.
 
 <p align="center">
   
