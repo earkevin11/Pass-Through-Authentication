@@ -54,7 +54,7 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/168652519-20dfab53-b5d6-4f30-a744-ffd31a335f28.png" height="80%" width="80%" alt="sign in "/>
+<img src="https://user-images.githubusercontent.com/104326475/168652519-20dfab53-b5d6-4f30-a744-ffd31a335f28.png" height="60%" width="60%" alt="sign in "/>
   
 <p/>
 
@@ -63,7 +63,7 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/168652730-a25edcd0-7031-48ec-b99c-c7b0e4de5bda.png" height="80%" width="80%" alt="error message"/>
+<img src="https://user-images.githubusercontent.com/104326475/168652730-a25edcd0-7031-48ec-b99c-c7b0e4de5bda.png" height="60%" width="60%" alt="error message"/>
   
 <p/>
 
