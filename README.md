@@ -4,6 +4,7 @@
 # Why is there Pass-Through Authentication?
 - Some AD features are not present in Azure AD.
 - Security organizations may have their own password policies in place and want users to authenticate against local AD before accessing Azure AD resources.
+- Organizations who want to force their on-premises Active Directory security and password policies, can choose to use Pass-through Authentication. 
 
 # How to enable Pass-Through Authentication?
 - Start up AD Connect > Configure > Change user-sign in > select Pass-Through Authentication > enter credentials for domain administrator
